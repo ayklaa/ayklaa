@@ -1,16 +1,39 @@
-## Hi there 👋
+## ✨ Say Happy Birthday with a Webpage
 
-<!--
-**ayklaa/ayklaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Demo](https://fajarghifar.github.io/happybirthday/)
 
-Here are some ideas to get you started:
+## 🚀 How to Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1.  **Clone Repository**
+
+    ```bash
+    # Clone this repository or download it
+    $ git clone https://github.com/fajarghifar/happybirthday
+
+    # Go into the repository
+    $ cd happybirthday
+
+    # Open it with your text editor
+    $ code .
+    ```
+
+2. **Open with Live Server**
+
+    Your site is now running!
+
+3. **Deployment**
+
+    To make your site online, you can enable GitHub Pages for the repository (Settings -> Pages). Alternatively, you can use [Netlify](https://www.netlify.com/).
+
+## 📝 Contributing
+
+If you have any ideas to make it more interesting, please submit a pull request or create an issue for a feature request.
+
+# 🤝 License
+
+### [MIT](LICENSE)
+
+> Github [@fajarghifar](https://github.com/fajarghifar) &nbsp;&middot;&nbsp;
+> Youtube [@fajarghifar](https://www.youtube.com/@fajarghifar/) &nbsp;&middot;&nbsp;
+> Instagram [@fajarghifar](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp;
+> Linkedin [@fajarghifar](https://www.linkedin.com/in/fajarghifar/)
